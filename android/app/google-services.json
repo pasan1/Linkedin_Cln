@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801755827148",
+    "project_id": "linkzydinclone",
+    "storage_bucket": "linkzydinclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801755827148:android:683ebc78fe96264eabab69",
+        "android_client_info": {
+          "package_name": "com.linkzydinclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801755827148-nj8s77soiu81nihqb8l0pip1u36lg2hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6FddXrR_APzgGeCzaFvgdSvNzMNN3Nc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801755827148-nj8s77soiu81nihqb8l0pip1u36lg2hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
