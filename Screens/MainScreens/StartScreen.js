@@ -11,7 +11,7 @@ import {GoogleSignin} from '@react-native-google-signin/google-signin';
 
 GoogleSignin.configure({
   webClientId:
-    '801755827148-nj8s77soiu81nihqb8l0pip1u36lg2hs.apps.googleusercontent.com',
+    '457911414551-9j23clvb2kfqlki6l1enccn0uab27136.apps.googleusercontent.com',
 });
 
 export default class StartScreen extends Component {
